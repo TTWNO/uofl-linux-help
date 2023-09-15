@@ -14,6 +14,8 @@ I have provided an `eduroam.nmconnection` file that you can load into NetworkMan
 $ nmcli con up eduroam
 ```
 
+Make sure to replace the placeholders before loading and connecting.
+
 ## Connecting to the VPN
 
 Since most Linux users are open-source extermist, it may be worth noting that UofL uses a proprietary *Cisco* product to connect to its VPN.
